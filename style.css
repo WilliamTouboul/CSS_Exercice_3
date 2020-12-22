@@ -1,0 +1,65 @@
+body {
+    margin : 0;
+}
+.container {
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    width : 100%;
+    }
+
+#green {
+    height : 2em;
+    width: 80%;
+    background-color: #2ECC71;
+    
+}
+#blue {
+    height : 2em;
+    width : 20%;
+    background-color: #2980B9;
+}
+#red {
+    height : 6em;
+    width : 33%;
+    background-color: #E74C3C;
+    float : left;
+}
+#orange {
+    height : 3em;
+    width : 34%;
+    background-color: #F39C12;
+    float : left;
+
+}
+#grey {
+    height: 3em;
+    width: 33%;
+    background-color : #95A5A6;
+    float : left;
+}
+
+#yellow {
+    height : 3em;
+    width : 22%;
+    background-color : #F39C12;
+    float : left;
+}
+#teal {
+    height : 3em;
+    width : 22%;
+    background-color: #16A085;
+    float : left;
+}
+#orangelight {
+    height : 3em;
+    width : 22%;
+    background-color: #D35400;
+    float : left;
+}
+#nightBlue{
+    height : 11em;
+    width : 100%;
+    background-color : #2C3E50;
+    float : left;
+}
